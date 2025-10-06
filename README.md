@@ -14,6 +14,7 @@ If you are planning to earn money from your project, pay for the Commercial Lice
 
 ## Non Commercial License
 
+
 ✔ Game Jams (non-commercial) 
 
 ✔ Free indie games 
@@ -25,6 +26,7 @@ If you are planning to earn money from your project, pay for the Commercial Lice
 ✔ Credit required (eg. Music by MHDevelop)
 
 ## Commercial Indie License
+
 
 💲  License required per project
 
